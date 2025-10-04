@@ -1,2 +1,10 @@
-# brute-constructive-greedy
-Collection of problem solutions using Brute Force, Greedy, and Constructive Algorithms. Focused on competitive programming and problem-solving paradigms.
+# Brute Force, Greedy and Constructive Algorithms
+
+This repository contains solutions and practice problems based on:
+- Brute Force
+- Greedy Algorithms
+- Constructive Algorithms
+
+## Sources
+Problems are mainly from Codeforces, AtCoder, LeetCode, CSES, CodeChef, GeeksforGeeks and other online judges.
+
